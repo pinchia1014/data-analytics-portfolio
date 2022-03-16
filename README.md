@@ -13,7 +13,7 @@ The repository showcases my programming skills, self-learning projects and certi
 - [About](#about)
 - [Study Projects](#study-projects)  
 	+ [Premium Vodka Product Campaign Evaluation ](#premium-vodka-product-campaign-evaluation)
-	+ [Tableau Vizzes](#tableau-vizzes)
+	+ [Retail Store Sales Analysis](#retail-store-sales-analysis)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -22,12 +22,14 @@ The repository showcases my programming skills, self-learning projects and certi
 
 ### Premium Vodka Product Campaign Evaluation 
 **Description:** The Premium Vodka Product Campaign Evaluation is a group final project by Driving Business Success with Marketing Analytics course, Penn State graduate certificate in marketing analytics. The course covers principles of applied marketing analytics, including marketing data sources, data quality, software, and fundamentals of statistics. With the course, I am able to apply basic statistics metric to interpret data and translate it into meaningful business insights and strategy.  
-**Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf) <br>
+**Presentation:** [`Premium Vodka Product Campaign Evaluation Project.pdf`](https://github.com/pinchia1014/data-analytics-project/blob/4bd2a4d9e602c69101dc914c42285d980eabc05c/Premium%20Vodka%20Product%20Campaign%20Evaluation%20Project.pdf) <br>
 **Status:** Completed in December 2021    
 
-### Tableau Vizzes
-**Description:** My Tableau Public account ---> [go to Tableau..]()  
-**Status:** ∞  
+### Retail Store Sales Analysis
+**Description:** The Retail Store Sales Analysis is my final project by Data Visualization for Business course.<br>
+**Presentation:** [`Retail Store Sales Analysis Project.pdf`](https://github.com/pinchia1014/data-analytics-project/blob/7ee8a4ab0bda03dc5bbcfc452f7efff8b15dd215/Retail%20Store%20Sales%20Analysis%20Project.pdf)<br>
+**Dashboard:** [go to Tableau..]()  
+**Status:** Completed in December 2021
 
 
 ## Certificates
