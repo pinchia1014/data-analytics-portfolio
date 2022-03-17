@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Cynthia! I'm student from Master's Business Analytics, Pennsylvania State University. During my undergradue, my major was marketing and engaged in Microsoft Taiwan internship program. I'm new to data analytics field, but still eager to aggregate my marketing insights with data analytics skills to display how I transfer from non-programming background to data analtyics. 
+Hi, I'm Cynthia! I'm student from Master's Business Analytics, Pennsylvania State University. During the undergradue, my major was marketing and engaged in Microsoft Taiwan internship program. I'm new to data analytics field, but still eager to aggregate my marketing insights with data analytics skills to display how I transfer from non-programming background to data analtyics. 
 
 <br>
 The repository showcases my programming skills, self-learning projects and certificate of data analytics courses.  
@@ -26,9 +26,9 @@ The repository showcases my programming skills, self-learning projects and certi
 **Status:** Completed in December 2021    
 
 ### Retail Store Sales Analysis
-**Description:** The Retail Store Sales Analysis is my final project by Data Visualization for Business course.<br>
+**Description:** The Retail Store Sales Analysis is my final project by Data Visualization for Business course. The project is for Walmart's sales analysis from 2010 to 2012. From the dashboard, it shows sales of various time period and monthly sales growth rate, making stakeholders be aware of human or inventory shortage in holiday seasons and reassign resources in advance. The matrix table also sheds light on whether the region with higher CPI or UNRATE holds relatively higher sales than others.<br>
 **Presentation:** [`Retail Store Sales Analysis Project.pdf`](https://github.com/pinchia1014/data-analytics-project/blob/7ee8a4ab0bda03dc5bbcfc452f7efff8b15dd215/Retail%20Store%20Sales%20Analysis%20Project.pdf)<br>
-**Dashboard:** [go to Tableau..]()  
+**Dashboard:** [Go to my public Tableau dashboard](https://public.tableau.com/views/BAN831/Dashboard1?:language=zh-TW&:display_count=n&:origin=viz_share_link)  
 **Status:** Completed in December 2021
 
 
