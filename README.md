@@ -42,5 +42,5 @@ The repository showcases my programming skills, self-learning projects and certi
 
 
 ## Contacts
-- LinkedIn: [@pinchia(cynthia)chou](https://www.linkedin.com/in/pin-chia-cynthia-chou-5a01a617a/)
+- LinkedIn: [@cynthiachou](https://www.linkedin.com/in/pin-chia-cynthia-chou-5a01a617a/)
 - E-mail: pinchiachou@gmail.com
