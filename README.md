@@ -14,6 +14,7 @@ The repository showcases my programming skills, self-learning projects and certi
 - [Study Projects](#study-projects)  
 	+ [Premium Vodka Product Campaign Evaluation ](#premium-vodka-product-campaign-evaluation)
 	+ [Retail Store Sales Analysis](#retail-store-sales-analysis)
+	+ [Personal Beauty Brand Project](#personal-beauty-brand-project)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -31,6 +32,12 @@ The repository showcases my programming skills, self-learning projects and certi
 **Dashboard:** [Go to my public Tableau dashboard](https://public.tableau.com/views/BAN831/Dashboard1?:language=zh-TW&:display_count=n&:origin=viz_share_link)  
 **Status:** Completed in December 2021
 
+### Personal Beauty Brand Project
+**Description:** The Personal Beauty Brand Project is a group final project by Business Data Management course. We created our own personal beauty and skin care brand and utilized 251 fabricated data to conduct data analysis on customer, product and sales segments by using SQL.<br>
+**Presentation:** [`Personal Beauty Brand Project.pdf`](https://github.com/pinchia1014/data-analytics-project/blob/eddd25b5d7d0c7817508bfd47164a6678ab1b326/Personal%20Beauty%20Brand%20Project.pdf)<br>
+**Code:** [`Personal Beauty Brand Project Code.sql`](https://github.com/pinchia1014/data-analytics-project/blob/eddd25b5d7d0c7817508bfd47164a6678ab1b326/Personal%20Beauty%20Brand%20Project%20Code.sql)<br> 
+**Status:** Completed in December 2021
+
 
 ## Certificates
 - [Advanced Relational Database and SQL](https://www.coursera.org/account/accomplishments/certificate/UAK8FXENCQEB) (Jul 2021) (Coursera)
@@ -42,5 +49,5 @@ The repository showcases my programming skills, self-learning projects and certi
 
 
 ## Contacts
-- LinkedIn: [@cynthiachou](https://www.linkedin.com/in/pin-chia-cynthia-chou-5a01a617a/)
+- LinkedIn: [@cynthiachou](https://www.linkedin.com/in/cynthia-chou-5a01a617a/)
 - E-mail: pinchiachou@gmail.com
