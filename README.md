@@ -1,4 +1,4 @@
-# Pin-Chia (Cynthia) Chou - Data Analysis Portfolio 
+# Cynthia Chou - Data Analysis Portfolio 
 
 ## About
 
@@ -12,9 +12,11 @@ The repository showcases my programming skills, self-learning projects and certi
 ## Table of contents
 - [About](#about)
 - [Study Projects](#study-projects)  
-	+ [Premium Vodka Product Campaign Evaluation ](#premium-vodka-product-campaign-evaluation)
+	+ [Premium Vodka Product Campaign Evaluation](#premium-vodka-product-campaign-evaluation)
 	+ [Retail Store Sales Analysis](#retail-store-sales-analysis)
 	+ [Personal Beauty Brand Project](#personal-beauty-brand-project)
+- [Self-Learning Projects](#self-learning-projects)  
+	+ [Web Crawler and Application Programming Interface Project](#web-crawler-and-application-programming-interface-project)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -38,6 +40,13 @@ The repository showcases my programming skills, self-learning projects and certi
 **Code:** [`Personal Beauty Brand Project Code.sql`](https://github.com/pinchia1014/data-analytics-project/blob/eddd25b5d7d0c7817508bfd47164a6678ab1b326/Personal%20Beauty%20Brand%20Project%20Code.sql)<br> 
 **Status:** Completed in December 2021
 
+
+## Self-Learning Projects
+
+### Web Crawler and Application Programming Interface Project
+**Description:** The Web Crawler and Application Programming Interface Project is my extracurricular project. I used Instagram Graphic API to extract over 30 image links from 20 key opinion leaders' account respectively, 600 image downloaded in total. Furthermore, I choose K-means clustering to do color analysis on images by using opencv package in Python, then print out top 5 colors frequently used in each image with png. format.<br>
+**Code:** [`Personal Beauty Brand Project Code.sql`](https://github.com/pinchia1014/data-analytics-project/blob/eddd25b5d7d0c7817508bfd47164a6678ab1b326/Personal%20Beauty%20Brand%20Project%20Code.sql)<br> 
+**Status:** Completed in December 2021
 
 ## Certificates
 - [Advanced Relational Database and SQL](https://www.coursera.org/account/accomplishments/certificate/UAK8FXENCQEB) (Jul 2021) (Coursera)
