@@ -44,7 +44,7 @@ The repository showcases my programming skills, self-learning projects and certi
 ## Self-Learning Projects
 
 ### Web Crawler and Application Programming Interface Project
-**Description:** The Web Crawler and Application Programming Interface Project is my extracurricular project. I used Instagram Graphic API to extract over 30 image links from 20 key opinion leaders' account respectively, 600 image downloaded in total. Furthermore, I choose K-means clustering to do color analysis on images by using opencv package in Python, then print out top 5 colors frequently used in each image with png. format.<br>
+**Description:** The Web Crawler and Application Programming Interface Project is my extracurricular project. I used Instagram Graphic API to extract over 30 image links from 20 key opinion leaders' account respectively, which was 600 image downloaded in total. Furthermore, I chose K-means clustering to do color analysis on images by using opencv package in Python, then printed out top 5 colors frequently used in each image with png. format.<br>
 **Code:** [`Web Crawler Project.ipynb`](https://github.com/pinchia1014/data-analytics-project/blob/ca47242f1ae5875e24db3ea8bddd9f620d9ed572/Web%20Crawler%20Project.ipynb)<br> 
 **Status:** Completed in December 2021
 
