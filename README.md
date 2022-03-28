@@ -25,7 +25,7 @@ The repository showcases my programming skills, study or self-learning projects 
 
 ### Premium Vodka Product Campaign Evaluation 
 **Description:** The Premium Vodka Product Campaign Evaluation is a group final project by Driving Business Success with Marketing Analytics course, Penn State graduate certificate in marketing analytics. The course covers principles of applied marketing analytics, including marketing data sources, data quality, software, and fundamentals of statistics. With the course, I am able to apply basic statistics metric to interpret data and translate it into meaningful business insights and strategy.  
-**Presentation:** [`Premium Vodka Product Campaign Evaluation Project.pdf`](https://github.com/pinchia1014/data-analytics-project/blob/4bd2a4d9e602c69101dc914c42285d980eabc05c/Premium%20Vodka%20Product%20Campaign%20Evaluation%20Project.pdf) <br>
+**Presentation:** [`Premium Vodka Product Campaign Evaluation Project.pdf`](https://github.com/pinchia1014/data-analytics-project/blob/2a84a5e2714379823070772111bca5a67c59c208/Vodka%20Product%20Campaign%20Project.pdf) <br>
 **Status:** Completed in December 2021    
 
 ### Retail Store Sales Analysis
@@ -35,7 +35,7 @@ The repository showcases my programming skills, study or self-learning projects 
 
 ### Personal Beauty Brand Project
 **Description:** The Personal Beauty Brand Project is a group final project by Business Data Management course. We created our own personal beauty and skin care brand and utilized 251 fabricated data to conduct data analysis on customer, product and sales segments by using SQL.<br>
-**Presentation:** [`Personal Beauty Brand Project.pdf`](https://github.com/pinchia1014/data-analytics-project/blob/eddd25b5d7d0c7817508bfd47164a6678ab1b326/Personal%20Beauty%20Brand%20Project.pdf)<br>
+**Presentation:** [`Personal Beauty Brand Project.pdf`](https://github.com/pinchia1014/data-analytics-project/blob/2a84a5e2714379823070772111bca5a67c59c208/Personal%20Beauty%20Brand%20Project.pdf)<br>
 **Code:** [`Personal Beauty Brand Project Code.sql`](https://github.com/pinchia1014/data-analytics-project/blob/eddd25b5d7d0c7817508bfd47164a6678ab1b326/Personal%20Beauty%20Brand%20Project%20Code.sql)<br> 
 **Status:** Completed in December 2021
 
