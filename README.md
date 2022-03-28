@@ -30,7 +30,6 @@ The repository showcases my programming skills, study or self-learning projects 
 
 ### Retail Store Sales Analysis
 **Description:** The Retail Store Sales Analysis is my final project by Data Visualization for Business course. The project is for Walmart's sales analysis from 2010 to 2012. From the dashboard, it shows sales of various time period and monthly sales growth rate, making stakeholders be aware of human or inventory shortage in holiday seasons and reassign resources in advance. The matrix table also sheds light on whether the region with higher CPI or UNRATE holds relatively higher sales than others.<br>
-**Presentation:** [`Retail Store Sales Analysis Project.pdf`](https://github.com/pinchia1014/data-analytics-project/blob/7ee8a4ab0bda03dc5bbcfc452f7efff8b15dd215/Retail%20Store%20Sales%20Analysis%20Project.pdf)<br>
 **Dashboard:** [Go to my public Tableau dashboard](https://public.tableau.com/views/BAN831/Dashboard1?:language=zh-TW&:display_count=n&:origin=viz_share_link)  
 **Status:** Completed in December 2021
 
