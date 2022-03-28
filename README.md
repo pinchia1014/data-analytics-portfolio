@@ -5,13 +5,14 @@
 Hi, I'm Cynthia! I'm student from Master's Business Analytics, The Pennsylvania State University. During the undergradue, my major was marketing and engaged in Microsoft Taiwan internship program. I'm new to data analytics field, but still eager to aggregate my marketing insights with data analytics skills to display how I transfer from non-programming background to data analtyics. 
 
 <br>
-The repository showcases my programming skills, study or self-learning projects and certificate of data analytics courses.  
+The repository showcases my programming skills, academic or self-learning projects and certificate of data analytics courses.  
 <br>
   
 
 ## Table of contents
 - [About](#about)
-- [Study Projects](#study-projects)  
+- [Academic Projects](#academic-projects)  
+	+ [Grocery Retails Analysis Project ](#grocery-retails-analysis-project)
 	+ [Premium Vodka Product Campaign Evaluation](#premium-vodka-product-campaign-evaluation)
 	+ [Retail Store Sales Analysis](#retail-store-sales-analysis)
 	+ [Personal Beauty Brand Project](#personal-beauty-brand-project)
@@ -21,7 +22,12 @@ The repository showcases my programming skills, study or self-learning projects 
 - [Contacts](#contacts)
 
 
-## Study Projects
+## Academic Projects
+
+### Grocery Retails Analysis Project 
+**Description:** The Grocery Retails Analysis Project is a project by Analytics for Brand Management and Customer Experience course, Penn State graduate certificate in marketing analytics. The course focuses on addressing key marketing challenges, including brand positioning and differentiation, pricing and product strategy, brand equity, and customer satisfaction. The course enables me to not only utilize statistical models to interpret the insights behind the data, but also extend my ability to propose actionable recommendations to the clients.  
+**Presentation:** [`Grocery Retails Analysis Project.pdf`](https://github.com/pinchia1014/data-analytics-project/blob/7be7a230da4a2d35cee5ab961c0d830e0b0bb274/Grocery%20Retails%20Analysis%20Project.pdf) <br>
+**Status:** Completed in March 2022
 
 ### Premium Vodka Product Campaign Evaluation 
 **Description:** The Premium Vodka Product Campaign Evaluation is a group final project by Driving Business Success with Marketing Analytics course, Penn State graduate certificate in marketing analytics. The course covers principles of applied marketing analytics, including marketing data sources, data quality, software, and fundamentals of statistics. With the course, I am able to apply basic statistics metric to interpret data and translate it into meaningful business insights and strategy.  
