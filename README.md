@@ -5,7 +5,7 @@
 Hi, I'm Cynthia! I'm student from Master's Business Analytics, The Pennsylvania State University. During the undergradue, my major was marketing and engaged in Microsoft Taiwan internship program. I'm new to data analytics field, but still eager to aggregate my marketing insights with data analytics skills to display how I transfer from non-programming background to data analtyics. 
 
 <br>
-The repository showcases my programming skills, self-learning projects and certificate of data analytics courses.  
+The repository showcases my programming skills, study or self-learning projects and certificate of data analytics courses.  
 <br>
   
 
