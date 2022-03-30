@@ -40,7 +40,7 @@ The repository showcases my programming skills, academic or self-learning projec
 **Status:** Completed in December 2021
 
 ### Personal Beauty Brand Project
-**Description:** The Personal Beauty Brand Project is a group final project by Business Data Management course. We created our own personal beauty and skin care brand and utilized 251 fabricated data to conduct data analysis on customer, product and sales segments by using SQL.<br>
+**Description:** The Personal Beauty Brand Project is a group final project by Business Data Management course. We created our own personal beauty and skin care brand and utilized 251 fabricated data to conduct data analysis on customer, product and supplier segments by using SQL.<br>
 **Presentation:** [`Personal Beauty Brand Project.pdf`](https://github.com/pinchia1014/data-analytics-project/blob/2a84a5e2714379823070772111bca5a67c59c208/Personal%20Beauty%20Brand%20Project.pdf)<br>
 **Code:** [`Personal Beauty Brand Project Code.sql`](https://github.com/pinchia1014/data-analytics-project/blob/eddd25b5d7d0c7817508bfd47164a6678ab1b326/Personal%20Beauty%20Brand%20Project%20Code.sql)<br> 
 **Status:** Completed in December 2021
