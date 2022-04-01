@@ -26,7 +26,7 @@ The repository showcases my programming skills, academic or self-learning projec
 
 ### Grocery Retails Analysis Project 
 **Description:** The Grocery Retails Analysis Project is a project by Analytics for Brand Management and Customer Experience course, Penn State graduate certificate in marketing analytics. The course focuses on addressing key marketing challenges, including brand positioning and differentiation, pricing and product strategy, brand equity, and customer satisfaction. The course enables me to not only utilize statistical models to interpret the insights behind the data, but also extend my ability to propose actionable recommendations to the clients.  
-**Presentation:** [`Grocery Retails Analysis Project.pdf`](https://github.com/pinchia1014/data-analytics-project/blob/7be7a230da4a2d35cee5ab961c0d830e0b0bb274/Grocery%20Retails%20Analysis%20Project.pdf) <br>
+**Presentation:** [`Grocery Retails Analysis Project.pdf`](https://github.com/pinchia1014/data-analytics-project/blob/3de51f5df1e777cb5a51d606e075aee520f4892a/Grocery%20Retails%20Analysis%20Project.pdf)<br>
 **Status:** Completed in March 2022
 
 ### Premium Vodka Product Campaign Evaluation 
