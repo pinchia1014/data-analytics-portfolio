@@ -12,7 +12,8 @@ The repository showcases my programming skills, academic or self-learning projec
 ## Table of contents
 - [About](#about)
 - [Academic Projects](#academic-projects)  
-	+ [Grocery Retails Analysis Project ](#grocery-retails-analysis-project)
+	+ [Customer Experience Analysis Project](#customer-experience-analysis-project)
+	+ [Grocery Retails Analysis Project](#grocery-retails-analysis-project)
 	+ [Premium Vodka Product Campaign Evaluation](#premium-vodka-product-campaign-evaluation)
 	+ [Retail Store Sales Analysis](#retail-store-sales-analysis)
 	+ [Personal Beauty Brand Project](#personal-beauty-brand-project)
@@ -23,6 +24,11 @@ The repository showcases my programming skills, academic or self-learning projec
 
 
 ## Academic Projects
+
+### Customer Experience Analysis Project 
+**Description:** The Customer Experience Analysis Project is the final project by Analytics for Brand Management and Customer Experience course, Penn State graduate certificate in marketing analytics. The project went through three business challenges, four statistical analysis and fabricated data to examine customer experience of Office Supply Company we created.  
+**Presentation:** [`Customer Experience Analysis Project.pdf`](https://github.com/pinchia1014/data-analytics-project/blob/eb19187047b3d92bfadcb4c55f399476c1a0b1d0/Customer%20Experience%20Analysis%20Project.pdf)<br>
+**Status:** Completed in May 2022
 
 ### Grocery Retails Analysis Project 
 **Description:** The Grocery Retails Analysis Project is a project by Analytics for Brand Management and Customer Experience course, Penn State graduate certificate in marketing analytics. The course focuses on addressing key marketing challenges, including brand positioning and differentiation, pricing and product strategy, brand equity, and customer satisfaction. The course enables me to not only utilize statistical models to interpret the insights behind the data, but also extend my ability to propose actionable recommendations to the clients.  
