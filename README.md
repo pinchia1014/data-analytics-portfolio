@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Cynthia! I graduated with Master's Business Analytics, The Pennsylvania State University in August, 2022. During my undergraduate, my major was marketing and engaged in Microsoft Taiwan internship program. I'm new to data analytics field, but still eager to aggregate my marketing insights with data analytics skills to display how I transfer from non-programming background to data analtyics. 
+Hi, I'm Cynthia! I graduated with Master's Business Analytics, The Pennsylvania State University, in August 2022. During my undergraduate, my major was marketing and engaged in Microsoft Taiwan internship program. I'm new to data analytics field, but still eager to aggregate my marketing insights with data analytics skills to display how I transfer from non-programming background to data analtyics. 
 
 <br>
 The repository showcases my programming skills, academic or self-learning projects and certificate of data analytics courses.  
